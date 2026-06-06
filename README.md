@@ -1,6 +1,6 @@
 # Mũ bảo hộ thông minh giám sát an toàn lao động
 
-Hệ thống giám sát an toàn công trình giải quyết đồng thời 4 bài toán: độ trễ, độ chính xác định vị, tầm phủ và chi phí — bằng cách kết hợp TinyML phát hiện ngã trên thiết bị, UWB định vị cm và mạng LoRa relay đa tầng.
+Hệ thống mũ bảo hộ thông minh giám sát an toàn công trình giải quyết đồng thời 4 bài toán: độ trễ, độ chính xác định vị, tầm phủ và chi phí — bằng cách kết hợp TinyML phát hiện ngã trên thiết bị, UWB định vị cm và mạng LoRa relay đa tầng.
 
 ---
 
